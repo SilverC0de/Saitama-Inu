@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+saitamatoken.com	TRUE	/	FALSE	1999999999	MY_SESSION	ditrl45mq7f1ndjuoh43h4ald0
+saitamatoken.com	TRUE	/	FALSE	1999999999	cf_ob_info	522:6d6cebe92d15744f:LHR
+saitamatoken.com	TRUE	/	FALSE	1999999999	cf_use_ob	0
+
